@@ -31,7 +31,7 @@ The following documents provide detailed guidance on each aspect of our project 
 
 - Keep your project charter and key artifacts updated in your project repository
 - Reference these process docs when planning new initiatives or onboarding team members
-- Add project-specific process documentation to your `.copilot/` directory if you want GitHub Copilot Spaces to use them as additional context
+- Add project-specific process documentation to your `.copilot/` directory if you want GitHub Copilot Spaces to use them as additional context when providing code suggestions and answering questions
 - Suggest improvements to these docs by opening an issue or pull request — we continuously refine our processes based on team feedback
 
 ## Questions or Feedback?
