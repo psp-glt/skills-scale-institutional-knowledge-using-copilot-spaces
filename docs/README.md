@@ -19,19 +19,12 @@ Quality assurance is integrated throughout our entire delivery process, not trea
 The following documents provide detailed guidance on each aspect of our project management approach:
 
 - [**Project Management Overview**](octoacme-project-management-overview.md) — Start here for a concise introduction to OctoAcme's project management principles, core roles, key artifacts, and high-level lifecycle stages.
-
 - [**Project Initiation Guide**](octoacme-project-initiation.md) — Learn how to validate new project ideas, align stakeholders, create project one-pagers, and make go/no-go decisions before moving into planning.
-
 - [**Project Planning**](octoacme-project-planning.md) — Discover how to transform approved initiatives into actionable plans, create prioritized backlogs, estimate scope, define acceptance criteria, and prepare for successful execution.
-
 - [**Execution & Tracking**](octoacme-execution-and-tracking.md) — Understand day-to-day execution practices including team rhythms, pull request workflows, quality standards, metrics tracking, and blocker escalation procedures.
-
 - [**Risk Management & Communication**](octoacme-risks-and-communication.md) — Master the techniques for identifying, assessing, and mitigating risks while maintaining effective stakeholder communication throughout the project lifecycle.
-
 - [**Release & Deployment Guide**](octoacme-release-and-deployment.md) — Follow our standardized release process including pre-release requirements, deployment checklists, rollback procedures, and incident response playbooks.
-
 - [**Retrospective & Continuous Improvement**](octoacme-retrospective-and-continuous-improvement.md) — Learn how to capture learnings, run effective retrospectives, and convert insights into actionable improvements that strengthen our delivery practices.
-
 - [**Roles and Personas**](octoacme-roles-and-personas.md) — Reference detailed descriptions of each role's responsibilities, goals, and typical communication patterns to better understand team dynamics and collaboration expectations.
 
 ## How to Use These Docs
