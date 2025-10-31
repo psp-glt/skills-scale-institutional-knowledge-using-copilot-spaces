@@ -14,11 +14,17 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- **Project Manager (PM)**: coordinates delivery, schedules, risk, communications.
+- **Product Manager (PdM)**: defines outcomes, prioritizes backlog, and measures success.
+- **Developers**: implement features, collaborate on design and testability.
+- **QA/Testing**: validate quality and acceptance criteria.
+- **Tech Lead**: guides technical direction, mentors developers, ensures code quality.
+- **Scrum Master**: facilitates agile ceremonies, removes blockers, coaches team.
+- **UX Designer**: designs user experiences, conducts research, ensures accessibility.
+- **Release Manager**: owns release calendar, coordinates deployments, manages production readiness.
+- **Stakeholder Proxy**: provides rapid feedback and approvals, represents stakeholder interests.
+- **Documentation Specialist**: maintains documentation, supports knowledge transfer and onboarding.
+- **Stakeholders**: provide inputs and approvals.
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -36,10 +42,15 @@ Applies to all cross-functional projects that deliver product features, services
 5. Close & Retrospective: capture learnings and next steps.
 
 ## Communication Cadence
-- Weekly sync between PM + PdM
-- Twice-weekly standups for delivery team (or as agreed)
-- Monthly stakeholder updates
-- Ad-hoc escalations as needed
+- **Daily**: Scrum Master-facilitated standups for delivery team
+- **Weekly**: 
+  - PM + PdM sync on priorities and roadmap
+  - Release Manager release planning and readiness reviews
+  - Tech Lead architecture and technical planning sessions
+- **Bi-weekly**: UX Designer design reviews and user research presentations
+- **Monthly**: Stakeholder updates via Stakeholder Proxy
+- **Ad-hoc**: Escalations, blocker removal, and decision approvals as needed
+- **Per Sprint/Release**: Retrospectives facilitated by Scrum Master, documentation updates by Documentation Specialist
 
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.

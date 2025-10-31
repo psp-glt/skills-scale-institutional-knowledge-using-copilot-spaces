@@ -27,6 +27,14 @@ The following documents provide detailed guidance on each aspect of our project 
 - [**Retrospective & Continuous Improvement**](octoacme-retrospective-and-continuous-improvement.md) — Learn how to capture learnings, run effective retrospectives, and convert insights into actionable improvements that strengthen our delivery practices.
 - [**Roles and Personas**](octoacme-roles-and-personas.md) — Reference detailed descriptions of each role's responsibilities, goals, and typical communication patterns to better understand team dynamics and collaboration expectations.
 
+## Templates and Checklists
+
+The following templates and checklists support smooth execution of key project management activities:
+
+- [**Role Handoff Checklist**](octoacme-role-handoff-checklist.md) — Ensure smooth transitions when project roles change hands with this comprehensive handoff guide covering knowledge transfer, access provisioning, and role-specific items.
+- [**Stakeholder Proxy Feedback Loop**](octoacme-stakeholder-proxy-feedback-loop.md) — Define how Stakeholder Proxies facilitate rapid feedback and decision-making between delivery teams and stakeholder groups, including delegation framework and communication templates.
+- [**Release Manager Checklist**](octoacme-release-manager-checklist.md) — Manage production releases systematically with this phase-by-phase checklist covering release planning, validation, deployment execution, monitoring, and closure.
+
 ## How to Use These Docs
 
 - Keep your project charter and key artifacts updated in your project repository
